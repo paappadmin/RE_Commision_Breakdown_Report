@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Commision Breakdown Report", "Commision Breakdown Report\Commision Breakdown Report.rptproj", "{6FF2D7E5-14F5-471B-8228-7C3803EEA7DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FF2D7E5-14F5-471B-8228-7C3803EEA7DE}.Debug|Default.ActiveCfg = Debug
+		{6FF2D7E5-14F5-471B-8228-7C3803EEA7DE}.Debug|Default.Build.0 = DebugLocal
+		{6FF2D7E5-14F5-471B-8228-7C3803EEA7DE}.Debug|Default.Deploy.0 = DebugLocal
+		{6FF2D7E5-14F5-471B-8228-7C3803EEA7DE}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{6FF2D7E5-14F5-471B-8228-7C3803EEA7DE}.DebugLocal|Default.Build.0 = DebugLocal
+		{6FF2D7E5-14F5-471B-8228-7C3803EEA7DE}.Release|Default.ActiveCfg = Release
+		{6FF2D7E5-14F5-471B-8228-7C3803EEA7DE}.Release|Default.Build.0 = Release
+		{6FF2D7E5-14F5-471B-8228-7C3803EEA7DE}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

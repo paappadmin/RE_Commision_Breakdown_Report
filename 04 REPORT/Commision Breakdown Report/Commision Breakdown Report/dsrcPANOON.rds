@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="dsrcPANOON">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=SPDITS016;Initial Catalog=PA_NOON</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>c67446d1-9132-48f2-86c1-4d6931c32665</DataSourceID>
+</RptDataSource>
